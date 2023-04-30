@@ -1,4 +1,4 @@
-![Glasp-Logo](./../../../Desktop/images/glasp-logo.png)  
+![Glasp-Logo](images/glasp-logo.png)
 
 <h1> Revolutionizing Learning: Everything you need to know about Glasp </h1>
 
@@ -34,6 +34,7 @@
     - [**When you click on the first round icon, this takes you to chatGPT which gives you an AI summary of the video.**](#when-you-click-on-the-first-round-icon-this-takes-you-to-chatgpt-which-gives-you-an-ai-summary-of-the-video)
 - [**Conclusion**](#conclusion)
 
+
 ## **Introduction**
 [Glasp](https://glasp.co/) (Greatest Legacy Accumulated as Shared Proof) is a free browser-extension-based social web highlighter. It enables users to highlight and note-down ideas from web pages and share them with like-minded people without switching between the webpage and a note-taking app.
 
@@ -46,7 +47,6 @@ These highlights can be tagged, searched for, linked to, and shared on various p
 The Glasp web extension is available on [Chrome Web Store](https://chrome.google.com/webstore/detail/glasp-social-web-highligh/blillmbchncajnhkjfdnincfndboieik) if you are using Google Chrome Browser or [Safari App Store](https://apps.apple.com/ng/app/glasp-social-web-highlighter/id1605690124?mt=12) if you using Safari Browser. It also supports Microsoft Edge, Brave, Opera, and Vivaldi browsers.
 
 ## **Features of Glasp**
-
 
 - Web Highlight: With Glasp, a user can highlight different ideas or quotes on a webpage using different colours.
 
@@ -79,88 +79,87 @@ The Glasp web extension is available on [Chrome Web Store](https://chrome.google
 
 #### **1. Visit the [glasp.co](https://glasp.co/) on and click on Sign up.**
 
-![Getting-Started-Step-One](../../../Desktop/images/Getting-started-1.png)
+![Getting-Started-Step-One](images/Getting-started-1.png)
 
 #### **2. Click on Continue with Google and selected your preferred Google account in the popup.**
 
-![Getting-Started-Step-Two](../../../Desktop/images/Getting-started-2.png)
+![Getting-Started-Step-Two](images/Getting-started-2.png)
 
 #### **3. Select your favourite topics from the box, then click on save.**
 
-![Getting-Started-Step-Three](../../../Desktop/images/Getting-Started-3.png)
+![Getting-Started-Step-Three](images/Getting-Started-3.png)
 
 #### **4. After completing the signup process, you will be redirected to your homepage. Here you can see the topics you are interested in, recommended topics and the navigation to other sections of the webpage.**
 
 
-![Getting-Started-Step-Four](../../../Desktop/images/Getting-Started-4.png)
+![Getting-Started-Step-Four](images/Getting-Started-4.png)
 
 #### **5. To view your highlighted content, click on my highlight. Note: You won’t have any highlights yet until you install and use the Chrome extension.  This is explained in the next section of the article.** 
 
-![Getting-Started-Step-Five](../../../Desktop/images/Getting-Started-5.png)
+![Getting-Started-Step-Five](images/Getting-Started-5.png)
 
 
 #### **6. On the “My Highlights” page, you can edit your profile by clicking the 3 dots next to your profile picture.**
 
-![Getting-Started-Step-Six](../../../Desktop/images/Getting-Started-6.png)
+![Getting-Started-Step-Six](images/Getting-Started-6.png)
 
 #### **7.You can edit your display name, username, bio, profile image, location, colour labels and social media links. Click  “Save” after you finish editing.**
 
-![Getting-Started-Step-Seven](../../../Desktop/images/Getting-Started-7.png)
+![Getting-Started-Step-Seven](images/Getting-Started-7.png)
 
 #### **8. You can copy your profile link from the “my highlights” page search bar to share your highlight page with others.**
 
-![Getting-Started-Step-Eight](../../../Desktop/images/Getting-Started-8.png)
+![Getting-Started-Step-Eight](images/Getting-Started-8.png)
+
 
 ## **How to Install The Glasp Extension on your Browser**
 
 #### 1. **On your dashboard, click on your profile picture and select “extension” from the dropdown menu. You will be redirected to the Glasp web store;  [Chrome Web Store](https://chrome.google.com/webstore/detail/glasp-social-web-highligh/blillmbchncajnhkjfdnincfndboieik) if you are on Google Chrome/Brave or [Safari App Store](https://apps.apple.com/ng/app/glasp-social-web-highlighter/id1605690124?mt=12) if you are on Safari.**
 
-![Installation-Guide-One](../../../Desktop/images/Installation-1.png)
-
+![Installation-Guide-One](images/installation-1.png)
 
 #### 2. **On the Webstore, click on Add to Chrome**
 
-![Installation-Guide-Two](../../../Desktop/images/installation-2.png)
+![Installation-Guide-Two](images/installation-2.png)
 
 #### 3. **A pop-up box will appear at the top, select “Add Extension”**
 
-![Installation-Guide-Three](../../../Desktop/images/Installation-3.png)
-
+![Installation-Guide-Three](images/Installation-3.png)
 #### **4. You will be redirected to a welcome page where you can learn more about Glasp and a sidebar is displayed for you to view your highlights, summary and many more.**
 
-![Installation-Guide-Four](../../../Desktop/images/installation-4.png)
+![Installation-Guide-Four](images/installation-4.png)
 
 #### 5. **After installing the extension, don’t forget to pin it on the toolbar. This makes it easier for you to open the Glasp on the sidebar. To do this, click on the extension icon at the top-right corner of your page and select the pin beside “Glasp”.**
 
-![Installation-Guide-Five](../../../Desktop/images/Installation-5.png)
+![Installation-Guide-Five](images/Installation-5.png)
 
 
 ## **How to Use Glasp on a Webpage**
 
 #### **1. Visit the webpage that contains the content you want to highlight and select the Glasp Icon from your pinned extension. You may be prompted to log in or signup, kindly do so.**
 
-![How-to-use-on-a-webpage-one](../../../Desktop/images/how-to-use-web-1.png)
+![How-to-use-on-a-webpage-one](images/how-to-use-web-1.png)
 
 #### **2. Highlight the content, and then a popup displaying colours and some icons will pop up. Pick a colour of your choice to highlight the text.**
 
-![How-to-use-on-a-webpage-two](../../../Desktop/images/how-to-use-web-2.png)
+![How-to-use-on-a-webpage-two](images/how-to-use-web-2.png)
 
 
 #### **3. To annotate, click on the hand icon, then add the note under the highlights in the sidebar.**
 
-![How-to-use-on-a-webpage-three](../../../Desktop/images/how-to-use-web-3.png)
+![How-to-use-on-a-webpage-three](images/how-to-use-web-3.png)
 
 #### **4. To create a Quoteshot of your highlighted text, click on the “quote” icon.**
 
-![How-to-use-on-a-webpage-four](../../../Desktop/images/how-to-use-web-4.png)
+![How-to-use-on-a-webpage-four](images/how-to-use-web-4.png)
 
 #### **5. This will bring up a popup which previews the Quoteshot with customizable features. You can change the background colours, choose between Square or Landscape for the orientation, click on the download icon to download as an image and you can click on the Facebook or Twitter icon to share on those platforms.**
 
-![How-to-use-on-a-webpage-five](../../../Desktop/images/how-to-use-web-5.png)
+![How-to-use-on-a-webpage-five](images/how-to-use-web-5.png)
 
 #### **6. You can add a tag to the highlighted text to help you easily search through your highlighted content. To do this, click on the tag icon on the popup or on the sidebar. Then, you can write a word that describes what your highlighted content is about.**
 
-![How-to-use-on-a-webpage-six](../../../Desktop/images/how-to-use-web-6.png)
+![How-to-use-on-a-webpage-six](images/how-to-use-web-6.png)
 
 ## **Using Glasp on mobile devices**
 
@@ -170,22 +169,22 @@ Glasp wasn’t designed to be used on mobile devices because it is a browser ext
 
 #### **1. Visit [YouTube](https://www.youtube.com/) on your browser where you have the Glasp extension installed.**
 
-![How-to-use-youtube-one](../../../Desktop/images/how-to-use-youtube-1.png)
+![How-to-use-youtube-one](images/how-to-use-youtube-1.png)
 
 #### **2. Search for the video of your choice and click on it.**
 
-![How-to-use-youtube-two](../../../Desktop/images/how-to-use-youtube-2.png)
+![How-to-use-youtube-two](images/how-to-use-youtube-2.png)
 
 #### **3. Click on the dropdown icon on the video page to view the transcript of the video you are watching.**
 
-![How-to-use-youtube-three](../../../Desktop/images/how-to-use-youtube-3.png)
+![How-to-use-youtube-three](images/how-to-use-youtube-3.png)
 
 #### **When you click on the first round icon, this takes you to chatGPT which gives you an AI summary of the video.**
 
 - You can jump to the transcript of the current time of the video by clicking on the second round icon. 
 - By clicking on the square icon which is the third icon,  you can copy the  transcript as plain text.
 
-![How-to-use-youtube-four](../../../Desktop/images/how-to-use-youtube-4.png)
+![How-to-use-youtube-four](images/how-to-use-youtube-4.png)
 
 ## **Conclusion**
 
