@@ -1,6 +1,7 @@
-![Glasp-Logo](images/glasp-logo.png)
 
 <h1> Revolutionizing Learning: Everything you need to know about Glasp </h1>
+
+![Glasp-Logo](images/glasp-logo.png)
 
 - [**Introduction**](#introduction)
 - [**Features of Glasp**](#features-of-glasp)
@@ -35,24 +36,24 @@
 - [**Conclusion**](#conclusion)
 
 
-## **Introduction**
-[Glasp](https://glasp.co/) (Greatest Legacy Accumulated as Shared Proof) is a free browser-extension-based social web highlighter. It enables users to highlight and note-down ideas from web pages and share them with like-minded people without switching between the webpage and a note-taking app.
+### **Introduction**
+[Glasp](https://glasp.co/) (Greatest Legacy Accumulated as Shared Proof) is a free browser-extension-based social web highlighter. It enables users to highlight and note down ideas from web pages and share them with like-minded people without switching between the webpage and a note-taking app.
 
-Glasp aims to solve the problem of knowledge isolation by ensuring an easy way to annotate and share ideas.
+Glasp aims to solve the problem of knowledge isolation by providing an easy way to annotate and share ideas.
 
 Instead of leaving your knowledge, insights, and experiences in personal spaces such as note-taking apps where no one can access them, with Glasp, you can capture online content with coloured highlighting options, which are automatically curated to your Glasp homepage.
 
 These highlights can be tagged, searched for, linked to, and shared on various platforms, including Twitter, Teams, and Slack.
 
-The Glasp web extension is available on [Chrome Web Store](https://chrome.google.com/webstore/detail/glasp-social-web-highligh/blillmbchncajnhkjfdnincfndboieik) if you are using Google Chrome Browser or [Safari App Store](https://apps.apple.com/ng/app/glasp-social-web-highlighter/id1605690124?mt=12) if you using Safari Browser. It also supports Microsoft Edge, Brave, Opera, and Vivaldi browsers.
+The Glasp web extension is available on the [Chrome Web Store](https://chrome.google.com/webstore/detail/glasp-social-web-highligh/blillmbchncajnhkjfdnincfndboieik) if you are using Google Chrome Browser or the [Safari App Store](https://apps.apple.com/ng/app/glasp-social-web-highlighter/id1605690124?mt=12) if you are using Safari Browser. It also supports Microsoft Edge, Brave, Opera, and Vivaldi browsers.
 
-## **Features of Glasp**
+### **Features of Glasp**
 
 - Web Highlight: With Glasp, a user can highlight different ideas or quotes on a webpage using different colours.
 
 - Saved Automatically: Highlights are curated and saved automatically to the user’s homepage in an organized and easily accessible way.
 
-- Copy and Export Highlights: Users can easily copy and export their highlights in different formats like TXT, CSV, HTML and MD. Highlights can also be exported as images either in landscape or portrait mode. These are called Quoteshots.
+- Copy and Export Highlights: Users can easily copy and export their highlights in different formats like TXT, CSV, HTML, and MD. Highlights can also be exported as images, either in landscape or portrait mode. These are called Quoteshots.
 
 - Tag and Search: Users can tag their highlights, making it very easy to search and retrieve information.
 
@@ -60,7 +61,7 @@ The Glasp web extension is available on [Chrome Web Store](https://chrome.google
 
 - AI Summary: Glasp provides an AI summary feature that can be used to summarize highlighted content.
 
-- Share your highlights: Glasp allows its users to share their highlights on different platforms such as Twitter, Teams, and Slack. Thereby ensuring easy knowledge sharing and collaboration.  
+- Share your highlights: Glasp allows its users to share their highlights on different platforms such as Twitter, Teams, and Slack. This ensures easy knowledge sharing and collaboration.  
 
 - Discover Content and People: You can discover various interesting and informative content and connect with various people via Glasp. 
 
@@ -68,28 +69,28 @@ The Glasp web extension is available on [Chrome Web Store](https://chrome.google
 
 - Kindle integration: Users can import their notes and highlights from Kindle.
   
-- Collaboration: A User can collaborate with other users by inviting them to view or contribute to highlights. 
+- Collaboration: A user can collaborate with other users by inviting them to view or contribute to highlights. 
 
-- Analytics: Users can track their progress and activities through the analytics provided by Glasp. This analytics includes the number of highlights, views and shares.
+- Analytics: Users can track their progress and activities through the analytics provided by Glasp. This analysis includes the number of highlights, views, and shares.
 
-- YouTube Transcription and Summary: With the Glasp Extension, users can read and copy the transcription of a youtube video. It also allows them to generate a summary of the youtube video using ChatGPT.
+- YouTube Transcription and Summary: With the Glasp Extension, users can read and copy the transcription of a Youtube video. It also allows them to generate a summary of the Youtube video using ChatGPT.
 
 
-## **Getting Started With Glasp**
+### **Getting Started With Glasp**
 
-#### **1. Visit the [glasp.co](https://glasp.co/) on and click on Sign up.**
+#### **1. Visit the [glasp website](https://glasp.co/) and click on Sign up.**
 
 ![Getting-Started-Step-One](images/Getting-started-1.png)
 
-#### **2. Click on Continue with Google and selected your preferred Google account in the popup.**
+#### **2. Click on "Continue with Google" and select your preferred Google account in the popup.**
 
 ![Getting-Started-Step-Two](images/Getting-started-2.png)
 
-#### **3. Select your favourite topics from the box, then click on save.**
+#### **3. Select your favourite topics from the box, then click "Save."**
 
 ![Getting-Started-Step-Three](images/Getting-Started-3.png)
 
-#### **4. After completing the signup process, you will be redirected to your homepage. Here you can see the topics you are interested in, recommended topics and the navigation to other sections of the webpage.**
+#### **4. After completing the signup process, you will be redirected to your homepage. Here, you can see the topics you are interested in, the recommended topics, and the navigation to other sections of the webpage.**
 
 
 ![Getting-Started-Step-Four](images/Getting-Started-4.png)
@@ -99,11 +100,11 @@ The Glasp web extension is available on [Chrome Web Store](https://chrome.google
 ![Getting-Started-Step-Five](images/Getting-Started-5.png)
 
 
-#### **6. On the “My Highlights” page, you can edit your profile by clicking the 3 dots next to your profile picture.**
+#### **6. On the “My Highlights” page, you can edit your profile by clicking the three dots next to your profile picture.**
 
 ![Getting-Started-Step-Six](images/Getting-Started-6.png)
 
-#### **7.You can edit your display name, username, bio, profile image, location, colour labels and social media links. Click  “Save” after you finish editing.**
+#### **7.You can edit your display name, username, bio, profile image, location, colour labels, and social media links. Click  “Save” after you finish editing.**
 
 ![Getting-Started-Step-Seven](images/Getting-Started-7.png)
 
@@ -112,31 +113,31 @@ The Glasp web extension is available on [Chrome Web Store](https://chrome.google
 ![Getting-Started-Step-Eight](images/Getting-Started-8.png)
 
 
-## **How to Install The Glasp Extension on your Browser**
+### **How to Install the Glasp Extension on Your Browser**
 
-#### 1. **On your dashboard, click on your profile picture and select “extension” from the dropdown menu. You will be redirected to the Glasp web store;  [Chrome Web Store](https://chrome.google.com/webstore/detail/glasp-social-web-highligh/blillmbchncajnhkjfdnincfndboieik) if you are on Google Chrome/Brave or [Safari App Store](https://apps.apple.com/ng/app/glasp-social-web-highlighter/id1605690124?mt=12) if you are on Safari.**
+#### 1. **On your dashboard, click on your profile picture and select “extension” from the dropdown menu. You will be redirected to the Glasp web store: [Chrome web store](https://chrome.google.com/webstore/detail/glasp-social-web-highligh/blillmbchncajnhkjfdnincfndboieik) if you are on Google Chrome or Brave, or the [Safari app store](https://apps.apple.com/ng/app/glasp-social-web-highlighter/id1605690124?mt=12) if you are on Safari.**
 
 ![Installation-Guide-One](images/installation-1.png)
 
-#### 2. **On the Webstore, click on Add to Chrome**
+#### 2. **On the Webstore, click "Add to Chrome."**
 
 ![Installation-Guide-Two](images/installation-2.png)
 
-#### 3. **A pop-up box will appear at the top, select “Add Extension”**
+#### 3. **A pop-up box will appear at the top, select “Add Extension.”**
 
 ![Installation-Guide-Three](images/Installation-3.png)
-#### **4. You will be redirected to a welcome page where you can learn more about Glasp and a sidebar is displayed for you to view your highlights, summary and many more.**
+#### **4. You will be redirected to a welcome page where you can learn more about Glasp, and a sidebar is displayed for you to view your highlights, summary, and many more.**
 
 ![Installation-Guide-Four](images/installation-4.png)
 
-#### 5. **After installing the extension, don’t forget to pin it on the toolbar. This makes it easier for you to open the Glasp on the sidebar. To do this, click on the extension icon at the top-right corner of your page and select the pin beside “Glasp”.**
+#### 5. **After installing the extension, don’t forget to pin it to the toolbar. This makes it easier for you to open the Glasp on the sidebar. To do this, click on the extension icon at the top-right corner of your page and select the pin beside “Glasp.”**
 
 ![Installation-Guide-Five](images/Installation-5.png)
 
 
-## **How to Use Glasp on a Webpage**
+### **How to Use Glasp on a Webpage**
 
-#### **1. Visit the webpage that contains the content you want to highlight and select the Glasp Icon from your pinned extension. You may be prompted to log in or signup, kindly do so.**
+#### **1. Visit the webpage that contains the content you want to highlight and select the Glasp icon from your pinned extension. You may be prompted to log in or signup; kindly do so.**
 
 ![How-to-use-on-a-webpage-one](images/how-to-use-web-1.png)
 
@@ -153,11 +154,11 @@ The Glasp web extension is available on [Chrome Web Store](https://chrome.google
 
 ![How-to-use-on-a-webpage-four](images/how-to-use-web-4.png)
 
-#### **5. This will bring up a popup which previews the Quoteshot with customizable features. You can change the background colours, choose between Square or Landscape for the orientation, click on the download icon to download as an image and you can click on the Facebook or Twitter icon to share on those platforms.**
+#### **5. This will bring up a popup that previews the Quoteshot with customizable features. You can change the background colours, choose between square or landscape for the orientation, click on the download icon to download as an image and you can click on the Facebook or Twitter icon to share on those platforms.**
 
 ![How-to-use-on-a-webpage-five](images/how-to-use-web-5.png)
 
-#### **6. You can add a tag to the highlighted text to help you easily search through your highlighted content. To do this, click on the tag icon on the popup or on the sidebar. Then, you can write a word that describes what your highlighted content is about.**
+#### **6. You can add a tag to the highlighted text to help you easily search through your highlighted content. To do this, click on the tag icon in the popup or on the sidebar. Then, you can write a word that describes what your highlighted content is about.**
 
 ![How-to-use-on-a-webpage-six](images/how-to-use-web-6.png)
 
@@ -165,7 +166,7 @@ The Glasp web extension is available on [Chrome Web Store](https://chrome.google
 
 Glasp wasn’t designed to be used on mobile devices because it is a browser extension, but you can access your profile, feed, and export highlights and notes from your mobile browser.
 
-## **How to use Glasp for Youtube Transcripts**
+### **How to use Glasp for Youtube Transcripts**
 
 #### **1. Visit [YouTube](https://www.youtube.com/) on your browser where you have the Glasp extension installed.**
 
@@ -179,20 +180,20 @@ Glasp wasn’t designed to be used on mobile devices because it is a browser ext
 
 ![How-to-use-youtube-three](images/how-to-use-youtube-3.png)
 
-#### **When you click on the first round icon, this takes you to chatGPT which gives you an AI summary of the video.**
+#### **When you click on the first round icon, this takes you to chatGPT, which gives you an AI summary of the video.**
 
 - You can jump to the transcript of the current time of the video by clicking on the second round icon. 
-- By clicking on the square icon which is the third icon,  you can copy the  transcript as plain text.
+- By clicking on the square icon, which is the third icon, you can copy the transcript as plain text.
 
 ![How-to-use-youtube-four](images/how-to-use-youtube-4.png)
 
-## **Conclusion**
+### **Conclusion**
 
-Glasp is a great tool that helps web users to highlight and organize content and quotes from web pages, collaborate with others, create annotations, download highlights and share highlights to social media.
+Glasp is a great tool that helps web users highlight and organize content and quotes from web pages, collaborate with others, create annotations, and download and share highlights on social media.
 
-It can be used for varieties of purposes such as content writing, research, coding, design, reading, active note-taking, brainstorming, knowledge management workflow and so on.
+It can be used for a variety of purposes, such as content writing, research, coding, design, reading, active note-taking, brainstorming, knowledge management workflow, and so on.
 
-With Glasp, learning and knowledge sharing is made easy.
+With Glasp, learning and knowledge sharing are made easy.
 
 
 
